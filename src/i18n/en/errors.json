@@ -1,0 +1,17 @@
+{
+  "A001": "Invalid parameter format, {detail}",
+  "A002": "Missing required parameter, error message = {licensePlate}",
+
+  "B001": "User already exists",
+  "B002": "User does not exist",
+  "B003": "User has been deleted",
+  "B004": "User has been deactivated",
+  "B005": "Incorrect password",
+
+  "C001": "Role {name} already exists",
+
+  "D001": "Task not found, taskId = {taskId}",
+
+  "E001": "Comment not found",
+  "E002": "You cannot delete someone else's comment"
+}
